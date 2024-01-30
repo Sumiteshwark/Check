@@ -1,4 +1,0 @@
-This is file first line 1
-This is file first line 2
-This is file first line 3
-This is file first line 4
