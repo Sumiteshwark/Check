@@ -1,4 +1,0 @@
-This is folder 2 line 1
-This is folder 2 line 2
-This is folder 2 line 3
-This is folder 2 line 4
